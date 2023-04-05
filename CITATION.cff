@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ahmed
+    given-names: Faran
+    orcid: https://orcid.org/0000-0001-7310-4634
+title: "BAGINS"
+version: 1.0.2
+doi: 10.5281/bagins.1986
+date-released: 2023-01-01
